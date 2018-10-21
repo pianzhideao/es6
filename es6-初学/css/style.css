@@ -1,0 +1,13 @@
+.box{
+	width:100px;
+	height:100px;
+	background: red;
+	position: absolute;
+	top:0;
+}
+.left{
+	left:0;
+}
+.right{
+	right:0;
+}
